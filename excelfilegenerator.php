@@ -5,6 +5,7 @@
 // MySQL Database : php_mysqli
 // Table Name : userinfo
 // Caveats : Change the MySQL Database and the Table name
+// Copyright © 2015 Suman Gangopadhyay
 
 // Create the MySQL Database Connection and fetch all the data from the table
 define("IP","localhost");
